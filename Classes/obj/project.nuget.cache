@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ANTfOuM39jqqKrU/M/WrQy9kP1bpq2jLUhO2Gv2Ho34FI8jK2NL9ikjuvyiIL6IssgPg2p/D+aVJRsN31i+G8A==",
+  "success": true,
+  "projectFilePath": "/Users/jasonbrezenski/Desktop/repos/Classes-Exercise/Classes/Classes.csproj",
+  "expectedPackageFiles": [
+    "/Users/jasonbrezenski/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/jasonbrezenski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/jasonbrezenski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
